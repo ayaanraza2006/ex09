@@ -35,11 +35,17 @@ This chart compares average support for pre-lecture videos across prior programm
 
 <img src="/ex09/static/imgs/prior_experience_barplot.png" alt="Bar chart comparing support for pre-lecture videos by prior experience." width="650"/>
 
+### 4. Understanding Compared to Support for Pre-Lecture Videos
+
+This chart compares students' current understanding with their support for pre-lecture videos. It helps show whether students who feel less confident in the course may still find pre-lecture videos useful.
+
+<img src="/ex09/static/imgs/understanding_scatterplot.png" alt="Scatterplot comparing student understanding with support for pre-lecture videos." width="650"/>
+
 ## Analysis
 
 The data is useful because the survey directly asks students whether optional pre-lecture videos would be helpful for their learning. This makes the analysis closely connected to the proposed course improvement.
 
-The first visualization gives an overall picture of student support. If many responses are on the higher end of the scale, that suggests students would likely value optional pre-lecture videos. The second visualization connects this support to course difficulty, which is important because students who find COMP110 more difficult may benefit from seeing concepts before lecture. The third visualization connects support to prior programming experience, which helps show whether students with less background knowledge may especially benefit from extra preparation.
+The first visualization gives an overall picture of student support. If many responses are on the higher end of the scale, that suggests students would likely value optional pre-lecture videos. The second visualization connects this support to course difficulty, which is important because students who find COMP110 more difficult may benefit from seeing concepts before lecture. The third visualization connects support to prior programming experience, which helps show whether students with less background knowledge may especially benefit from extra preparation. The fourth visualization adds another perspective by comparing current understanding with support for pre-lecture videos.
 
 Overall, the analysis suggests that optional pre-lecture videos could be a helpful course improvement because they would give students another way to prepare without replacing the current course structure.
 
