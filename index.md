@@ -21,25 +21,25 @@ The course should add short optional pre-lecture videos before each class becaus
 
 This chart shows the distribution of student responses to the question about whether optional pre-lecture videos would be helpful. This helps show whether students generally support the idea.
 
-<img src="/ex09/static/imgs/pre_lecture_count.png" alt="Chart showing student support for optional pre-lecture videos." width="650"/>
+<img src="/personal-site.github.io/static/imgs/pre_lecture_count.png" alt="Chart showing student support for optional pre-lecture videos." width="650"/>
 
 ### 2. Support for Pre-Lecture Videos by Course Difficulty
 
 This chart compares support for pre-lecture videos across different course difficulty ratings. It helps explore whether students who find the course more difficult tend to rate pre-lecture videos as more helpful.
 
-<img src="/ex09/static/imgs/difficulty_boxplot.png" alt="Boxplot comparing support for pre-lecture videos by course difficulty." width="650"/>
+<img src="/personal-site.github.io/static/imgs/difficulty_boxplot.png" alt="Boxplot comparing support for pre-lecture videos by course difficulty." width="650"/>
 
 ### 3. Support for Pre-Lecture Videos by Prior Experience
 
 This chart compares average support for pre-lecture videos across prior programming experience groups. It helps show whether students with different programming backgrounds respond differently to the idea.
 
-<img src="/ex09/static/imgs/prior_experience_barplot.png" alt="Bar chart comparing support for pre-lecture videos by prior experience." width="650"/>
+<img src="/personal-site.github.io/static/imgs/prior_experience_barplot.png" alt="Bar chart comparing support for pre-lecture videos by prior experience." width="650"/>
 
 ### 4. Understanding Compared to Support for Pre-Lecture Videos
 
 This chart compares students' current understanding with their support for pre-lecture videos. It helps show whether students who feel less confident in the course may still find pre-lecture videos useful.
 
-<img src="/ex09/static/imgs/understanding_scatterplot.png" alt="Scatterplot comparing student understanding with support for pre-lecture videos." width="650"/>
+<img src="/personal-site.github.io/static/imgs/understanding_scatterplot.png" alt="Scatterplot comparing student understanding with support for pre-lecture videos." width="650"/>
 
 ## Analysis
 
